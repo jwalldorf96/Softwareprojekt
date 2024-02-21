@@ -1,0 +1,47 @@
+// Anleitung zur Registrierung für das GitHub Copilot Education Program
+
+Einleitung:
+
+Was ist GitHub Copilot ?
+GitHub Copilot ist eine KI-gesteuerte Code-Generierungserweiterung für verschiedene Entwicklungsumgebungen. 
+Es wurde von GitHub in Zusammenarbeit mit OpenAI entwickelt und basiert im Grunde auf ChatGPT. 
+GitHub Copilot analysiert deinen vorhandenen Code und schlägt automatisch Codevorschläge vor, um dir bei der schnelleren und effizienteren Entwicklung zu helfen. 
+Es kann Codeausschnitte, Funktionen, Klassen und sogar ganze Methoden generieren, basierend auf dem Kontext und den Anforderungen deines aktuellen Codes. 
+
+Das GitHub Copilot Education Program bietet dir als Student die Möglichkeit, GitHub Copilot kostenlos zu nutzen. In dieser Anleitung erfährst du, wie du dich für das Programm registrieren kannst.
+
+Hinweis: Die vollständige Registrierung mit Bearbeitungszeit durch Github kann mehrere Werktage (bis eine Woche) in Anspruch nehmen. 
+Daher dies bitte berücksichtigen und gegebenenfalls früher anfangen...
+
+Schritt 1: Tritt GitHub Education bei
+1. Öffne deinen Webbrowser und besuche die GitHub Education-Website unter https://education.github.com/.
+2. Klicke auf die Schaltfläche "Join GitHub Education".
+3. Klicke auf die Schaltfläche "Sign up for Student Developer Pack".
+4. Wähle Individuals und anschließend Students aus
+5. Melde dich mit deinen Zugangsdaten an oder registriere dich bei Github mit deiner Hochschul Email Adresse
+
+Schritt 2: Starte die Verifizierung als Student
+Entweder wirst du automatisch weitergeleitet oder du gehst auf dein Benutzerprofil oben rechts und wählst "verify your acadamic affiliation" aus
+1. Fülle das Anmeldeformular aus und gib die Hochschul E-Mail-Adresse ein.
+2. Wähle als Bildungseinrichtung die Hochschule Koblenz (Koblenz University of Applied Sciences) aus der Liste aus.
+3. Lade einen Nachweis deiner Studierendenberechtigung hoch, z. B. eine Immatrikulationsbescheinigung oder einen Studentenausweis. 
+-> Hier hat sich gezeigt, dass die Immatrikulationsbescheinigung die bessere Wahl ist, da diese maschinell erstellt und daher gut lesbar ist. 
+Dies trifft auf ein Foto des Studentenausweises nicht immer zu. 
+
+Schritt 3: Warte auf die Bestätigung
+1. Nachdem du deine Registrierung abgeschickt hast, wird dein Antrag überprüft.
+2. Du erhältst eine E-Mail-Benachrichtigung, sobald deine Registrierung genehmigt wurde.
+->Bis die Verifikation des Studentenstatus erfolgreich war vergehen einige Tage, dies nimmt etwas Zeit in Anspruch. 
+Erfahrungsgemäß sollte aber nach 2-3 Tagen eine erste Rückmeldung per Email erfolgen. 
+Die Freischaltung erfolgt dabei in 2 Schritten: 
+1. Freischaltung des Accounts (2-3 Tage)
+2. Freischaltung des Student Developer Pack inklusive Github Copilot (2-3 Tage)
+
+Hinweis: Der aktuelle Status der Registrierung kann auch immer im Github User Konto unter dem Benutzerprofil "verify your acadamic affiliation" eingesehen werden
+
+Schritt 4: Aktiviere GitHub Copilot
+1. Gehe zur GitHub Copilot-Website unter https://copilot.github.com/.
+2. Melde dich mit deinem GitHub-Konto an.
+3. Folge den Anweisungen, um GitHub Copilot in QT oder VS Code zu aktivieren oder nutze die anderen in der Vorlesung zur Verfügung gestellten Anleitungen. 
+->Außerdem können hier weitere Einstellungen für die KI getätigt werden. Zb. Darf Public Code verwendet werden oder darf dein Code zum Training der KI genutzt werden.
+

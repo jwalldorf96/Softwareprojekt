@@ -1,1 +1,31 @@
+Hier ist eine Anleitung zur Installation von GitHub Copilot in Visual Studio Code und zur Verwendung seiner Funktionen:
+
+Installation von GitHub Copilot
+
+Öffne Visual Studio Code.
+-Klicke auf das Extensions-Symbol in der Seitenleiste auf der linken Seite (oder drücke Ctrl+Shift+X auf deiner Tastatur).
+-Suche in der Extensions-Leiste nach "GitHub Copilot".
+-Klicke auf die Schaltfläche "Installieren", um GitHub Copilot zu installieren.
+-Anschließend ist ein neustart von VS Code notwendig
+-Dach muss du dich nur noch mit deinem Github Konto anmelden, für das der Copilot freigeschaltet ist (Anleitung Github Copilot Registrierung fuer Studenten)
+
+Grob gesagt gibt es drei Funktionen, wie Github Copilit in VS Code genutzt werden kann:
+
+Inline-Vorschläge
+GitHub Copilot kann Code und Kommentare direkt inline ergänzen. Diese erscheinen direkt in deinem Code sobald du
+
+Chatfenster
+Du kannst auch mit GitHub Copilot in einem Chatfenster interagieren. Um das Chatfenster zu öffnen, gehe zu "Ansicht" > "Befehlspalette" und suche nach "GitHub Copilot: Open Chat". Hier kannst du Fragen stellen oder Anweisungen geben und GitHub Copilot wird versuchen, passenden Code zu generieren.
+
+Completion Panel
+Wenn du eine Codezeile beginnst, zeigt GitHub Copilot automatisch ein "Completion Panel" mit Vorschlägen zur Vervollständigung deines Codes. Du kannst mit den Pfeiltasten durch die Vorschläge navigieren und Enter drücken, um einen Vorschlag zu akzeptieren.
+Bitte beachte, dass GitHub Copilot derzeit nur in Englisch verfügbar ist.
+
+
+Troubleshooting: 
+Es Inline keine Vorschläge durch die KI generiert. 
+-> Unten rechts ist ein kleines Symbol mit dem Copilot Logo für das Copilot Status Menu. 
+Hier kann der Copilot aus und wieder eingeschaltet werden. Prüfe ob dort Status ready (enabled) steht.
+
+Eine ausführliche Anleitung zur Integration von Github Copilot in VS Code findest du hier: 
 https://docs.github.com/en/copilot/github-copilot-chat/using-github-copilot-chat-in-your-ide
