@@ -1,6 +1,6 @@
 Anleitung mit Tipps zur Integration von Github Copilot in QT Creator
 
-Eine Anleitung zur Integration wird von seiten QT bereits zur Verfügung gestellt, diese ist ein guter Anhaltspunkt hat in der Praxis jedoch an der einen oder anderen Stelle gehakt. 
+Eine Anleitung zur Integration wird von seiten QT bereits zur Verfügung gestellt, diese ist ein guter Anhaltspunkt, hat in der Praxis jedoch an der einen oder anderen Stelle gehakt. (Kommentare unten in Klammern)
 Die Anleitung für QT ist hier zu finden: https://doc.qt.io/qtcreator/creator-copilot.html
 Die Anleitung für Neovim ist hier zu finden: https://github.com/github/copilot.vim/blob/release/README.md
 
