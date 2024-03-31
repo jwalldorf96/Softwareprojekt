@@ -15,11 +15,11 @@ Inline-Vorschläge
 GitHub Copilot kann Code und Kommentare direkt inline ergänzen. Diese erscheinen direkt in deinem Code sobald du anfaängst zu tippen.
 
 Chatfenster
-Du kannst auch mit GitHub Copilot in einem Chatfenster interagieren änhlich wie in in der Webversion von OpenAI. Um das Chatfenster zu öffnen, gehe zu "Ansicht" > "Befehlspalette" und suche nach "GitHub Copilot: Open Chat". Hier kannst du Fragen stellen oder Anweisungen geben und GitHub Copilot wird versuchen, passenden Code zu generieren.
+Du kannst auch mit GitHub Copilot in einem Chatfenster interagieren änhlich wie in in der Webversion von OpenAI. Um das Chatfenster zu öffnen, gehe zu "Ansicht" > "Befehlspalette" und suche nach "GitHub Copilot: Open Chat".
+Hier kannst du Fragen stellen oder Anweisungen geben und GitHub Copilot wird versuchen, passenden Code zu generieren.
 
 Completion Panel
 Wenn du eine Codezeile beginnst, zeigt GitHub Copilot automatisch ein "Completion Panel" mit Vorschlägen zur Vervollständigung deines Codes. Du kannst mit den Pfeiltasten durch die Vorschläge navigieren und Enter drücken, um einen Vorschlag zu akzeptieren.
-Bitte beachte, dass GitHub Copilot derzeit nur in Englisch verfügbar ist.
 
 
 Troubleshooting: 

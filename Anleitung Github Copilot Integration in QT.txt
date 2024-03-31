@@ -2,11 +2,11 @@ Anleitung mit Tipps zur Integration von Github Copilot in QT Creator
 
 Eine Anleitung zur Integration wird von seiten QT bereits zur Verfügung gestellt, diese ist ein guter Anhaltspunkt, hat in der Praxis jedoch an der einen oder anderen Stelle gehakt. (Kommentare unten in Klammern)
 Die Anleitung für QT ist hier zu finden: https://doc.qt.io/qtcreator/creator-copilot.html
-Die Anleitung für Neovim ist hier zu finden: https://github.com/github/copilot.vim/blob/release/README.md
+Die Anleitung für Neovim (notwendig für die Integration) ist hier zu finden: https://github.com/github/copilot.vim/blob/release/README.md
 
-Sie umfasst kurz zusammengefasst folgende Schritte: 
+Die Anleitung für QT umfasst kurz zusammengefasst folgende Schritte: 
 
-1. Installation von Neovim Texteditor
+1. Installation vom Neovim Texteditor
 1.1 Neovim installieren
 1.2 Node.js installieren
 1.3 Git für Powershell installieren mit dem Befehl: winget install --id Git.Git -e --source winget (!Zusatz - nicht in obiger Anleitung enthalten)
